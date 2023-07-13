@@ -1,7 +1,6 @@
 {
     "dart.flutterSdkPath": "C:\\src\\flutter",
     "git.autofetch": true,
-    "zenMode.silentNotifications": false,
     "python.pythonPath": "c:\\Users\\Valera\\AppData\\Local\\Programs\\Python\\Python38-32\\python.exe",
     "[dart]": {
         "editor.formatOnSave": true,
@@ -32,8 +31,6 @@
     "aceJump.finder.onlyInitialLetter": false,
     "git.confirmSync": false,
     "svelte.plugin.svelte.format.config.singleQuote": true,
-    "html.format.wrapAttributes": "force",
-    "editor.fontFamily": "JetBrains Mono, Consolas, 'Courier New', monospace",
     "aceJump.finder.skipSelection": true,
     "editor.semanticTokenColorCustomizations": {},
     "editor.tokenColorCustomizations": {},
@@ -47,12 +44,32 @@
     "editor.minimap.showSlider": "always",
     "editor.minimap.renderCharacters": false,
     "editor.minimap.enabled": false,
-    "notebook.lineNumbers": "on",
-    "zenMode.hideLineNumbers": false,
-    "zenMode.centerLayout": false,
-    "zenMode.hideStatusBar": false,
     "editor.formatOnSave": true,
+    "vim.statusBarColorControl": true,
+    "workbench.colorCustomizations": {
+        "statusBar.background": "#005f5f",
+        "statusBar.noFolderBackground": "#005f5f",
+        "statusBar.debuggingBackground": "#005f5f"
+    },
+    "editor.accessibilitySupport": "off",
+    "notebook.lineNumbers": "on",
+    "dart.showInspectorNotificationsForWidgetErrors": false,
+    "git.openRepositoryInParentFolders": "never",
     "workbench.activityBar.visible": false,
-    "zenMode.hideTabs": false,
-    "workbench.colorTheme": "One Dark Pro Darker"
+    "autoHide.panelDelay": 0,
+    "autoHide.sideBarDelay": 0,
+    "errorLens.excludeBySource": [
+        "ts(1109)"
+    ],
+    "workbench.colorTheme": "Shades of Purple",
+    "editor.fontFamily": "JetBrains Mono, Consolas, 'Courier New', monospace",
+    "background.windowBackgrounds": [
+        "C:\\Users\\Valera\\Pictures"
+    ],
+    "editor.folding": false,
+    "editor.lineNumbers": "off",
+    "dart.closingLabels": false,
+    "breadcrumbs.enabled": false,
+    "workbench.editor.showTabs": false,
+    "zenMode.centerLayout": false
 }
